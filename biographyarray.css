@@ -1,0 +1,55 @@
+.img{
+    border-radius: 90%;
+    border-color: black;
+    background-color: aliceblue;
+    width: 150px;
+    height: 180px;
+  }
+  
+  .logo img{
+    height: 35px;
+    width: 35px;
+    text-align: left;
+    border-radius: 100%;
+  }
+  
+  .logokiri{
+    text-align: left;
+    margin-left: 35px;
+  }
+  
+  .aboutme{
+    text-align: center;
+    margin-left: 35px;
+    margin-right: 35px;
+  }
+  
+  .logokanan img{
+    height: 50px;
+    width: 70px;
+    text-align: left;
+  }
+  
+  .tekskanan{
+    text-align: justify;
+  }
+  
+  .container {
+    display: flex;
+  }
+  .box{
+    height: 1000px;
+    width: 500px;
+    justify-content: center;
+    color: black;
+    font-size: 18px;
+  }
+  .left {
+    background-color: #EA6153;
+    text-align: center;
+  }
+  .right {
+    background-color: gray;
+    padding-left: 100px;
+    padding-right: 70px;
+  }
